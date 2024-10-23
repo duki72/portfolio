@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Fox = () => {
+export function Fox () {
   return (
     <div>Fox</div>
   )
